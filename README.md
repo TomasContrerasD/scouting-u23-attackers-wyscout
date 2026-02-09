@@ -22,7 +22,7 @@ The objective is not to predict future performance, but to **support scouting de
 
 ## Dataset
 
-- Engineered Wyscout dataset created by [https://github.com/eddwebster/football_analytics/tree/master/data/wyscout](Edd Webster)
+- Engineered Wyscout dataset created by [Edd Webster](https://github.com/eddwebster/football_analytics/tree/master/data/wyscout)
 - Covers selected European leagues during the **2020/21 season**
 - Includes per-90 performance metrics, duels, passing, finishing, and progression statistics
 
