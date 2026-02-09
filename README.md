@@ -8,8 +8,6 @@ This project presents a **data-driven scouting framework** designed to identify 
 
 The objective is not to predict future performance, but to **support scouting decision-making** by structuring performance data, reducing noise, and highlighting players who may be **undervalued by the market** given their contribution and playing style.
 
-This work is exploratory in nature. The dataset contains aggregated and engineered metrics, which may include minor imprecisions typical of football data. These limitations are handled through filtering, normalization, and comparative analysis, with the primary goal of showcasing a **scalable scouting methodology** rather than producing definitive rankings.
-
 ---
 
 ## Project Objectives
@@ -24,7 +22,7 @@ This work is exploratory in nature. The dataset contains aggregated and engineer
 
 ## Dataset
 
-- Engineered Wyscout dataset created by **Edd Webster**
+- Engineered Wyscout dataset created by [https://github.com/eddwebster/football_analytics/tree/master/data/wyscout](Edd Webster)
 - Covers selected European leagues during the **2020/21 season**
 - Includes per-90 performance metrics, duels, passing, finishing, and progression statistics
 
@@ -71,6 +69,7 @@ This project focuses on:
 ---
 
 ## Repository Structure
+```
 scouting-u23-attackers-wyscout/
 │
 ├── notebooks/
@@ -81,6 +80,7 @@ scouting-u23-attackers-wyscout/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 ## Key Takeaways:
@@ -96,8 +96,6 @@ scouting-u23-attackers-wyscout/
 This project demonstrates how a structured, data-driven approach can support football scouting by identifying young attacking players who offer strong performance at a reasonable cost. By combining careful exploratory analysis, a transparent scoring model, and unsupervised clustering, the framework balances interpretability, practicality, and analytical rigor.
 
 Rather than relying on a single metric or opaque model, the methodology emphasizes comparison within context: similar minutes, similar roles, and similar playing styles. While the results are exploratory and subject to data limitations, the approach itself is scalable and adaptable to other leagues, seasons, and positions.
-
-Ultimately, this work highlights how data science can complement traditional scouting by narrowing the search space, revealing market inefficiencies, and providing objective support to football decision-making.
 
 ---
 ## Author
