@@ -1,8 +1,8 @@
+# Identifying Undervalued U23 Attackers: A Data-Driven Scouting Approach
+
 <p align="center">
   <img src="assets/banner.png" width="750">
 </p>
-
-# Identifying Undervalued U23 Attackers: A Data-Driven Scouting Approach
 
 This project explores a data-driven scouting methodology to identify **Sub-23 attacking players** who combine **strong performance** with **relatively low market value**, using advanced football metrics derived from Wyscout data for the **2020/21 season**.
 
