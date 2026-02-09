@@ -22,3 +22,4 @@ This project explores a data-driven scouting methodology to identify **Sub-23 at
 ## Author
 **Tomás Contreras**  
 GitHub: https://github.com/TomasContrerasD
+LinkedIn: www.linkedin.com/in/tomas-contreras-delporte
